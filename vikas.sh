@@ -1,0 +1,1 @@
+xdg-open jenkins.html
